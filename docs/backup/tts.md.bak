@@ -18,6 +18,7 @@
 
 ## TTS
 
+- [Qwen3-TTS-Flash: Multi-timbre & Multi-lingual & Multi-dialect Speech Synthesis.](https://qwen.ai/blog?id=b4264e11fb80b5e37350790121baf0a0f10daf82&from=research.latest-advancements-list)
 - [Autoregressive transformer models have proven highly effective for synthesizing speech from text.](https://huggingface.co/PlayHT/PlayDiffusion)  🤗 
 - 🌟 **MiniMax-Speech: Intrinsic Zero-Shot Text-to-Speech with a Learnable 
   Speaker Encoder**, `arXiv, 2505.07916`, [arxiv](http://arxiv.org/abs/2505.07916v1), [pdf](http://arxiv.org/pdf/2505.07916v1.pdf), cication: [**-1**](None) 
