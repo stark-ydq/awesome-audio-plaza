@@ -196,7 +196,7 @@
 
 ## Projects
 
-- [**MiMo-Audio**](https://github.com/XiaomiMiMo/MiMo-Audio) - XiaomiMiMo ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Audio.svg?style=social&label=Star)
+- [**MiMo-Audio**](https://github.com/XiaomiMiMo/MiMo-Audio) - XiaomiMiMo ![Star](https://img.shields.io/github/stars/XiaomiMiMo/MiMo-Audio.svg?style=social&label=Star) 
 
 	 *Audio Language Models are Few-Shot Learners*
 - 🌟 [**Step-Audio**](https://github.com/stepfun-ai/Step-Audio) - stepfun-ai ![Star](https://img.shields.io/github/stars/stepfun-ai/Step-Audio.svg?style=social&label=Star) 

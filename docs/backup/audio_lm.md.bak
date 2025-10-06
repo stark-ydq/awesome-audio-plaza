@@ -122,8 +122,8 @@
 
 ## Projects
 
-- [**flm-audio**](https://github.com/cofe-ai/flm-audio) - cofe-ai ![Star](https://img.shields.io/github/stars/cofe-ai/flm-audio.svg?style=social&label=Star)
-- [**SALMONN**](https://github.com/bytedance/SALMONN) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star)
+- [**flm-audio**](https://github.com/cofe-ai/flm-audio) - cofe-ai ![Star](https://img.shields.io/github/stars/cofe-ai/flm-audio.svg?style=social&label=Star) 
+- [**SALMONN**](https://github.com/bytedance/SALMONN) - bytedance ![Star](https://img.shields.io/github/stars/bytedance/SALMONN.svg?style=social&label=Star) 
 
 	 *A suite of advanced multi-modal LLMs*
 - [**OSUM**](https://github.com/ASLP-lab/OSUM) - ASLP-lab ![Star](https://img.shields.io/github/stars/ASLP-lab/OSUM.svg?style=social&label=Star) 
