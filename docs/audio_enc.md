@@ -16,6 +16,7 @@
 
 ## Audio Encodec
 
+- [Neural audio codecs: how to get audio into LLMs](https://kyutai.org/next/codec-explainer) 
 - [mhubert-base-25hz](https://huggingface.co/slprl/mhubert-base-25hz)  🤗 
 - 🌟 **Scaling Transformers for Low-Bitrate High-Quality Speech Coding**, `arXiv, 2411.19842`, [arxiv](http://arxiv.org/abs/2411.19842v1), [pdf](http://arxiv.org/pdf/2411.19842v1.pdf), cication: [**-1**](None) 
 
