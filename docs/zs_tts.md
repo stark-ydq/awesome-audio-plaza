@@ -15,6 +15,7 @@
 
 ## Zero Shot TTS
 
+- [Voice Cloning with Consent](https://huggingface.co/blog/voice-consent-gate)  🤗
 - **IndexTTS2: A Breakthrough in Emotionally Expressive and 
   Duration-Controlled Auto-Regressive Zero-Shot Text-to-Speech**, `arXiv, 2506.21619`, [arxiv](http://arxiv.org/abs/2506.21619v1), [pdf](http://arxiv.org/pdf/2506.21619v1.pdf), cication: [**-1**](None) 
 
